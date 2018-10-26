@@ -5,10 +5,10 @@ Desafio desenvolvido no processo seletivo da Aditum.
 ## Instruções
 
 1. **Fazer o _fork_ desse projeto.** O desafio não será corrigido se não for um _fork_ do projeto.
-2. **Implementar as funcionalidades obrigatórias.**
-3. [Opcional] Implementar as funcionalidades opcionais, caso queira ou seja solicidado.
+2. **Implementar as [funcionalidades obrigatórias](##funcionalidades-obrigatórias).**
+3. [Opcional] Implementar as [funcionalidades opcionais](##funcionalidades-opcionais), caso queira ou seja solicidado.
 4. **Use o Git apropriadamente.** Faça _commits_ com frequência e coerência, o uso do Git será avaliado.
-5. **Ao terminar, abra um issue com o link do _fork_.**
+5. **Ao terminar, abra um _issue_ com o link do _fork_.**
 
 ### Configuração do ambiente
 
