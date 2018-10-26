@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aditum.Catalog.WebApi", "src\Aditum.Catalog.WebApi\Aditum.Catalog.WebApi.csproj", "{075E615E-6484-4369-A81C-F159DFA3D548}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{762CE2B2-B81C-4D1B-8C5B-5853C7DACDD2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aditum.Catalog.Repository", "src\Aditum.Catalog.Repository\Aditum.Catalog.Repository.csproj", "{7755F7DD-D522-443A-8456-4F6E0F59F11F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aditum.Catalog.Model", "src\Aditum.Catalog.Model\Aditum.Catalog.Model.csproj", "{8E1E6023-5BE4-43C6-907A-155269CA683A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{075E615E-6484-4369-A81C-F159DFA3D548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{075E615E-6484-4369-A81C-F159DFA3D548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{075E615E-6484-4369-A81C-F159DFA3D548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{075E615E-6484-4369-A81C-F159DFA3D548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7755F7DD-D522-443A-8456-4F6E0F59F11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7755F7DD-D522-443A-8456-4F6E0F59F11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7755F7DD-D522-443A-8456-4F6E0F59F11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7755F7DD-D522-443A-8456-4F6E0F59F11F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E1E6023-5BE4-43C6-907A-155269CA683A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1E6023-5BE4-43C6-907A-155269CA683A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1E6023-5BE4-43C6-907A-155269CA683A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1E6023-5BE4-43C6-907A-155269CA683A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{075E615E-6484-4369-A81C-F159DFA3D548} = {762CE2B2-B81C-4D1B-8C5B-5853C7DACDD2}
+		{7755F7DD-D522-443A-8456-4F6E0F59F11F} = {762CE2B2-B81C-4D1B-8C5B-5853C7DACDD2}
+		{8E1E6023-5BE4-43C6-907A-155269CA683A} = {762CE2B2-B81C-4D1B-8C5B-5853C7DACDD2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F0F25E4-6029-4161-AA7D-4E740888E4C4}
+	EndGlobalSection
+EndGlobal
